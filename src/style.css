@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: oldlace;
+}
+.navback{
+    background: #12c2e9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.card-img{
+    width: 80%;
+    height: 230px;
+    margin: auto;
+}
+
+.filters{
+    border-right: 1px solid #aaa;
+}
+
+.disp-inline{
+    display: inline;
+    cursor: pointer;
+}
+
+.disp-block{
+    display: block;
+}
+
